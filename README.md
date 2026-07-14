@@ -11,11 +11,11 @@
   <tr>
     <td align="center" width="220">
       <strong>🧩 Writeups résolus</strong><br/><br/>
-      <img src="https://img.shields.io/badge/0-writeups-2ea043?style=for-the-badge" alt="0 writeups"/>
+      <img src="https://img.shields.io/badge/1-writeups-2ea043?style=for-the-badge" alt="1 writeups"/>
     </td>
     <td align="center" width="220">
       <strong>⭐ Points totaux</strong><br/><br/>
-      <img src="https://img.shields.io/badge/0-points-58a6ff?style=for-the-badge" alt="0 points"/>
+      <img src="https://img.shields.io/badge/50-points-58a6ff?style=for-the-badge" alt="50 points"/>
     </td>
   </tr>
 </table>
@@ -44,8 +44,10 @@ Les contributions sont les bienvenues. Pour ajouter un write-up ou améliorer un
 ---
 
 <!-- WRITEUPS:START -->
-<!-- Dernière mise à jour : 14/07/2026 13:16 UTC -->
+<!-- Dernière mise à jour : 14/07/2026 15:13 UTC -->
 
-_Aucun write-up pour le moment._
+| Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
+|:----------|:-----------|:----------|:-----------|:-----|-------:|
+| [Whois](writeups/whois.md) | LAB'OSINT | Learning track | Medium | 14 juillet 2026 | 50 |
 
 <!-- WRITEUPS:END -->
