@@ -49,6 +49,13 @@ Cela permet de tester le nom de domaine donné : ege.fr.
 
 ```
 whois ege.fr
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.fr
+
+domain:       FR
 [...]
 e-mail:tech@XXX.net
 registrar:XXX
