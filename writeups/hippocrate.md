@@ -19,12 +19,12 @@ points: "25"
 
 ## Énoncé
 
-> " Récupérer le numéro RPPS d'un médecin afin de prouver s'il exerce légalement.
-- Voici les informations que nous détenons :
+> "- Voici les informations que nous détenons :
 - Le numéro du cabinet commence par 02 99 27 44 XX
 - Le médecin est spécialisé dans la gériatrie
 - Le médecin exerce à Rennes
 - Son prénom commence par M
+  
 Quel est son numéro RPPS ?"
 
 ---
