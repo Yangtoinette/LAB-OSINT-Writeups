@@ -44,5 +44,8 @@ Les contributions sont les bienvenues. Pour ajouter un write-up ou améliorer un
 ---
 
 <!-- WRITEUPS:START -->
+<!-- Dernière mise à jour : 14/07/2026 13:16 UTC -->
+
 _Aucun write-up pour le moment._
+
 <!-- WRITEUPS:END -->
