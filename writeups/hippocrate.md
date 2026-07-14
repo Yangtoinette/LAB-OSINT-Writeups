@@ -19,17 +19,7 @@ points: "25"
 
 ## Énoncé
 
-<<<<<<< HEAD
-> "- Voici les informations que nous détenons :
-- Le numéro du cabinet commence par 02 99 27 44 XX
-- Le médecin est spécialisé dans la gériatrie
-- Le médecin exerce à Rennes
-- Son prénom commence par M
-  
-Quel est son numéro RPPS ?"
-=======
 > "Google|Recherche d'informations"
->>>>>>> e26c8e4 (update writeup)
 
 ---
 
@@ -37,7 +27,7 @@ Quel est son numéro RPPS ?"
 
 | Outil | Rôle |
 |:------|:-----|
-| `Google` | Recherche classique d'informations |
+| `[Outil 1]` | [Rôle] |
 
 ---
 
