@@ -40,10 +40,16 @@ points: "50"
 
 En ligne de commande, sur un OS Linux, la commande whois est déjà disponible. 
 Elle permet rapidement de trouver l'hébergeur d'un site.
-Cela permet de tester le nom de domaine donné : ege.fr.
 
 ```
 whois NOM_DU_SITE
+```
+
+Cela permet de tester le nom de domaine donné : ege.fr.
+
+```
+whois ege.fr
+[...]
 e-mail:tech@XXX.net
 registrar:XXX
 ```
@@ -57,7 +63,7 @@ registrar:XXX
 ## Flag
 
 ```
-LABOSINT{*.*.*}
+LABOSINT{***}
 ```
 
 ---
