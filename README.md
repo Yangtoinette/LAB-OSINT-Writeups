@@ -37,10 +37,6 @@ Ce dépôt peut également contenir des fichiers d'accompagnement pertinents pou
 
 Toutes les résolutions sont fournies à des fins éducatives uniquement. Respectez toujours les principes de l'éthique OSINT ainsi que les conditions générales de la plateforme concernée.
 
-## Contribuer
-
-Les contributions sont les bienvenues. Pour ajouter un write-up ou améliorer un write-up existant, suivez le workflow standard de GitHub : créez une branche du dépôt, apportez vos modifications, puis soumettez une pull request.
-
 ---
 
 <!-- WRITEUPS:START -->
