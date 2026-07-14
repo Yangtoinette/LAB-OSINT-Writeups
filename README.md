@@ -44,7 +44,7 @@ Les contributions sont les bienvenues. Pour ajouter un write-up ou améliorer un
 ---
 
 <!-- WRITEUPS:START -->
-<!-- Dernière mise à jour : 14/07/2026 15:35 UTC -->
+<!-- Dernière mise à jour : 14/07/2026 15:36 UTC -->
 
 | Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
 |:----------|:-----------|:----------|:-----------|:-----|-------:|
