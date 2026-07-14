@@ -19,7 +19,7 @@ points: "25"
 
 ## Énoncé
 
-> "[Copier l'énoncé du challenge ici]"
+> "Quel bâtiment clôt une célèbre formule prononcée à l’issue d’une victoire décisive de la 2ème division blindée ?"
 
 ---
 
