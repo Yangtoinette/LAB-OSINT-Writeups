@@ -70,7 +70,7 @@ registrar:XXX
 ## Flag
 
 ```
-LABOSINT{***}
+LABOSINT{O**}
 ```
 
 ---
