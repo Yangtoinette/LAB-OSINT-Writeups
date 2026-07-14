@@ -19,7 +19,7 @@ points: "50"
 
 ## Énoncé
 
-> "[Copier l'énoncé du challenge ici]"
+> "Quel est l’hébergeur du site ege.fr ?"
 
 ---
 
