@@ -11,11 +11,11 @@
   <tr>
     <td align="center" width="220">
       <strong>🧩 Writeups résolus</strong><br/><br/>
-      <img src="https://img.shields.io/badge/5-writeups-2ea043?style=for-the-badge" alt="5 writeups"/>
+      <img src="https://img.shields.io/badge/6-writeups-2ea043?style=for-the-badge" alt="6 writeups"/>
     </td>
     <td align="center" width="220">
       <strong>⭐ Points totaux</strong><br/><br/>
-      <img src="https://img.shields.io/badge/160-points-58a6ff?style=for-the-badge" alt="160 points"/>
+      <img src="https://img.shields.io/badge/185-points-58a6ff?style=for-the-badge" alt="185 points"/>
     </td>
   </tr>
 </table>
@@ -40,10 +40,11 @@ Toutes les résolutions sont fournies à des fins éducatives uniquement. Respec
 ---
 
 <!-- WRITEUPS:START -->
-<!-- Dernière mise à jour : 17/07/2026 14:48 UTC -->
+<!-- Dernière mise à jour : 17/07/2026 15:16 UTC -->
 
 | Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
 |:----------|:-----------|:----------|:-----------|:-----|-------:|
+| [Un cv pour la vérité ](writeups/cv-pour-la-verite.md) | LAB'OSINT | FOOTPRINTING | Medium | juillet 2026 | 25 |
 | [Milliards d'écoutes](writeups/milliards-ecoutes.md) | LAB'OSINT | STEGANO | Medium | juillet 2026 | 50 |
 | [Cogito Ergo Sum](writeups/cogito-ergo-sum.md) | LAB'OSINT | CTF Perce le front numérique by GMP | Easy | 14 juillet 2026 | 10 |
 | [Hippocrate](writeups/hippocrate.md) | LAB'OSINT | Pour débuter | Medium | 14 juillet 2026 | 25 |
