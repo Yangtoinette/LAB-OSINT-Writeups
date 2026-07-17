@@ -47,7 +47,7 @@ Nous pouvons voir furtivement que le gif donné possède des caractères en diff
 Nous devons pouvoir créer des images à partir du Gif, pour pouvoir décoder les caractères.
 Nous pouvons utiliser le site https://picasion.com/split-animated-gif pour faire cela.
 
-> **Résultat :** Dr https://picasion.com/split-animated-gif
+> **Résultat :** https://picasion.com/split-animated-gif
 
 ---
 
