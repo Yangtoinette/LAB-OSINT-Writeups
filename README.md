@@ -11,11 +11,11 @@
   <tr>
     <td align="center" width="220">
       <strong>🧩 Writeups résolus</strong><br/><br/>
-      <img src="https://img.shields.io/badge/3-writeups-2ea043?style=for-the-badge" alt="3 writeups"/>
+      <img src="https://img.shields.io/badge/4-writeups-2ea043?style=for-the-badge" alt="4 writeups"/>
     </td>
     <td align="center" width="220">
       <strong>⭐ Points totaux</strong><br/><br/>
-      <img src="https://img.shields.io/badge/100-points-58a6ff?style=for-the-badge" alt="100 points"/>
+      <img src="https://img.shields.io/badge/110-points-58a6ff?style=for-the-badge" alt="110 points"/>
     </td>
   </tr>
 </table>
@@ -40,10 +40,11 @@ Toutes les résolutions sont fournies à des fins éducatives uniquement. Respec
 ---
 
 <!-- WRITEUPS:START -->
-<!-- Dernière mise à jour : 14/07/2026 16:53 UTC -->
+<!-- Dernière mise à jour : 17/07/2026 09:18 UTC -->
 
 | Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
 |:----------|:-----------|:----------|:-----------|:-----|-------:|
+| [Cogito Ergo Sum](writeups/cogito-ergo-sum.md) | LAB'OSINT | CTF Perce le front numérique by GMP | Easy | 14 juillet 2026 | 10 |
 | [Hippocrate](writeups/hippocrate.md) | LAB'OSINT | Pour débuter | Medium | 14 juillet 2026 | 25 |
 | [Une promesse tenue](writeups/une-promesse-tenue.md) | LAB'OSINT | CTF BLEUET 2023 | Medium | 14 juillet 2026 | 25 |
 | [Whois](writeups/whois.md) | LAB'OSINT | Learning track | Medium | 14 juillet 2026 | 50 |
