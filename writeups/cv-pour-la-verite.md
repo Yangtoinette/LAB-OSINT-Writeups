@@ -43,11 +43,11 @@ En recherchant simplement le nom de la personne, nous pouvons tomber sur son pro
 Dans son parcours, nous pouvons voir qu'il a été assistant parlementaire au Sénat pendant la période demandée.
 Nous devons trouver plus d'informations sur le poste et son contexte pour trouver le flag
 
-> **Résultat :** Dr assistant parlementaire au Sénat
+> **Résultat :** assistant parlementaire au Sénat
 
 ---
 
-### [02] — Trouver un concert et le groupe
+### [02] — Trouver le flag
 
 En ajoutant les mots "assistant parlemantaire" à son prénom et nom sur Google, nous pouvons avoir plus de contexte.
 Le deuxième lien notamment, nous montre un post qui nous permet de voir le nom de la personne avec laquelle il a travaillé.
