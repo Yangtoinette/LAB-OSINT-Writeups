@@ -19,10 +19,10 @@ points: "50"
 
 ## Énoncé
 
-> "Le monde entier l’a écouté.
-> Et en quatre ans, après sa sortie en 2013, ce titre a dépassé le palier des milliards d’écoutes…
-> ---
-> Lequel est-il ?"
+Le monde entier l’a écouté.
+Et en quatre ans, après sa sortie en 2013, ce titre a dépassé le palier des milliards d’écoutes…
+
+Lequel est-il ?"
 
 ---
 
@@ -56,7 +56,7 @@ Nous pouvons utiliser le site https://picasion.com/split-animated-gif pour faire
 Les caractères sont du morse, que nous pouvons traduire lettre par lettre.
 Nous obtenons différents mots qui nous donnent des indices sur ce qui semblent être un événement.
 
-> **Résultat :** ACCORD, 7 OCTOBRE, PARIS, 2025
+> **Résultat :** ACCOR, 7 OCTOBRE, PARIS, 2025
 
 ---
 
