@@ -40,7 +40,7 @@ Toutes les résolutions sont fournies à des fins éducatives uniquement. Respec
 ---
 
 <!-- WRITEUPS:START -->
-<!-- Dernière mise à jour : 17/07/2026 14:46 UTC -->
+<!-- Dernière mise à jour : 17/07/2026 14:48 UTC -->
 
 | Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
 |:----------|:-----------|:----------|:-----------|:-----|-------:|
