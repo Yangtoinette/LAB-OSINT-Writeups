@@ -11,11 +11,11 @@
   <tr>
     <td align="center" width="220">
       <strong>🧩 Writeups résolus</strong><br/><br/>
-      <img src="https://img.shields.io/badge/7-writeups-2ea043?style=for-the-badge" alt="7 writeups"/>
+      <img src="https://img.shields.io/badge/8-writeups-2ea043?style=for-the-badge" alt="8 writeups"/>
     </td>
     <td align="center" width="220">
       <strong>⭐ Points totaux</strong><br/><br/>
-      <img src="https://img.shields.io/badge/210-points-58a6ff?style=for-the-badge" alt="210 points"/>
+      <img src="https://img.shields.io/badge/235-points-58a6ff?style=for-the-badge" alt="235 points"/>
     </td>
   </tr>
 </table>
@@ -40,10 +40,11 @@ Toutes les résolutions sont fournies à des fins éducatives uniquement. Respec
 ---
 
 <!-- WRITEUPS:START -->
-<!-- Dernière mise à jour : 18/07/2026 12:00 UTC -->
+<!-- Dernière mise à jour : 22/07/2026 11:12 UTC -->
 
 | Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
 |:----------|:-----------|:----------|:-----------|:-----|-------:|
+| [La bouteille Oxley](writeups/bouteille-oxley.md) | LAB'OSINT | GINT'OSINT - PEAKY BLINDERS : OPERATION BLUE VEIL | Medium | juillet 2026 | 25 |
 | [Un cv pour la vérité ](writeups/cv-pour-la-verite.md) | LAB'OSINT | FOOTPRINTING | Medium | juillet 2026 | 25 |
 | [Le lieu suspect](writeups/lieu-suspect.md) | LAB'OSINT | PEAKY BLINDERS : OPERATION BLUE VEIL | Medium | juillet 2026 | 25 |
 | [Milliards d'écoutes](writeups/milliards-ecoutes.md) | LAB'OSINT | STEGANO | Medium | juillet 2026 | 50 |
